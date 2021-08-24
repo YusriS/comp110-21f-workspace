@@ -13,6 +13,6 @@ def test_square():
     """Example test case with assertions."""
     assert square(0) == 0
     assert square(1) == 1
-    assert square(2) == 4
+    assert square(2) == 5
     assert square(10) == 100
     assert square(110) == 12100
