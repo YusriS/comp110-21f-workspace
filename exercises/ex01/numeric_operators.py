@@ -1,0 +1,14 @@
+"""Program practice with numeric operators."""
+__author__ = "730531303"
+left_hand_side: int = input("What is the left side value? ")
+right_hand_side: int = input("What is the right side value? ")
+lhs = int(left_hand_side) 
+rhs = int(right_hand_side)
+print(str(lhs) + " ** " + str(rhs) + " is")
+print(int(left_hand_side) ** int(right_hand_side))
+print(str(lhs) + " / " + str(rhs)+ " is") 
+print(int(left_hand_side) / int(right_hand_side))
+print(str(lhs) + " // " + str(rhs) + " is")
+print(int(left_hand_side) // int(right_hand_side))
+print(str(lhs) + " % " + str(rhs) + " is")
+print(int(left_hand_side) % int(right_hand_side))
