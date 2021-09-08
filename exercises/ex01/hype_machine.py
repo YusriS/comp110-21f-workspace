@@ -1,5 +1,5 @@
 """practice printing with variables with motivational program."""
-___author___ = "730531303"
+__author__ = "730531303"
 
 name: str = input("What is your name? ")
 print("you entered: ")

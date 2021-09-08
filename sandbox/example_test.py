@@ -16,3 +16,5 @@ def test_square():
     assert square(2) == 4
     assert square(10) == 100
     assert square(110) == 12100
+
+choice: int = int(input"")
